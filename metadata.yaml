@@ -1,0 +1,6 @@
+name: astrbot_plugin_rp # 这是你的插件的唯一识别名。
+desc: 输入rp查看今日运势 # 插件简短描述
+help: 输入 /set_probability重新设置运势概率，共5个等级，例如/set_probability 5, 30, 35, 20, 10。 # 插件的帮助信息
+version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: lenorado # 作者
+repo: https://github.com/lenorado/astrbot_plugin_rp # 插件的仓库地址
